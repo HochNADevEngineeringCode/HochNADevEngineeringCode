@@ -22,7 +22,7 @@
 
 ---
 
-### 📊 Lo que he aprendido por área
+### 📊 Lo que he aprendido y Desarrollado, por área
 
 | Área | Lo que puedo hacer | Herramientas |
 | :--- | :--- | :--- |
