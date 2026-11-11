@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HochNADevEngineeringCode/HochNADevEngineeringCode/main/Mi%20banner.png" alt="Hoch NA Dev-Eng Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/HochNADevEngineeringCode/HochNADevEngineeringCode/main/Mi%20banner1.png" alt="Hoch NA Dev-Eng Banner" width="100%" />
 </div>
 
 # ¡Hola! Soy Nahuel Hochnadel 👋
